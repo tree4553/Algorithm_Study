@@ -1,6 +1,8 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        answer = 0
+        if s == "":
+            return 0
+        answer = 1
         
         for i in range(len(s)):
             #print('i:', i)
@@ -23,5 +25,13 @@ class Solution:
                     break
                 else:
                     temp += 1
+                    if answer < temp:
+                            #print('answer:', answer, ', temp:', temp)
+                            answer = temp
         
         return answer
+
+# Time Limit Exceed
+# abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~
+# abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!\"#$%&'()*+,-./:;<=>?@[\\]^_`{|}~
+# ...
