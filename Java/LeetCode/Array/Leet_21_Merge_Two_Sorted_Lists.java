@@ -1,7 +1,7 @@
 package Algorithm.LeetCode;
 
 // https://leetcode.com/problems/merge-two-sorted-lists/
-public class L_21_Merge_Two_Sorted_Lists {
+public class Leet_21_Merge_Two_Sorted_Lists {
     public static void main(String[] args) {
         ListNode node111 = new ListNode(4);
         ListNode node11 = new ListNode(2, node111);

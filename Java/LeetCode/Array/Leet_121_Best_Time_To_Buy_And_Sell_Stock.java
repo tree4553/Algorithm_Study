@@ -1,6 +1,6 @@
 package Algorithm.LeetCode;
 
-public class L_121_Best_Time_To_Buy_And_Sell_Stock {
+public class Leet_121_Best_Time_To_Buy_And_Sell_Stock {
 
     // 시간초과!!
     // 이중 for문으로는 이 문제를 해결할 수 없엉!
