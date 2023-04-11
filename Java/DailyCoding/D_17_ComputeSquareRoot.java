@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 입력된 수에 대한 제곱근을 소수점 셋째자리에서 반올림하여 둘째자리까지의 값을 반환해라.
 // Math.sqrt 는 사용하지 않는다.

@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 문자열을 입력받아 연속되는 문자가 있는 경우 3글자 이상 연속된 문자는 숫자와 문자로 나타내라.
 // ex) abbbcc => a3bcc

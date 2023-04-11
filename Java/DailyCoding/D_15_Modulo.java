@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 두 수를 입력받아 앞의 수를 뒤의 수로 나눈 나머지를 리턴해라
 // 단 나눗셈, 나머지 연산자는 사용 금지

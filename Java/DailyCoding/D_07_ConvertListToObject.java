@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 import java.util.HashMap;
 

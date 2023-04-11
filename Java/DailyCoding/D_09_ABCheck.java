@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 문자열 내에 a로 시작해서 b로 끝나는 길이 5의 문자열, b로 시작해서 a로 끝나는 5의 문자열을 리턴해라
 public class D_09_ABCheck {

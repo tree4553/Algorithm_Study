@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 수를 입력받아 2의 거듭제곱인지 여부를 리턴해라
 public class D_03_PowerOfTwo {

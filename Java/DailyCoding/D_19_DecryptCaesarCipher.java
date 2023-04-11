@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 카이사르 암호화 되어있는 문자열과 key를 입력받아서
 // 복호화 된 결과를 반환해라.

@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 연이율을 입력받아 원금이 2배 이상이 될때까지 걸리는 시간을 리턴해라
 public class D_02_ComputeWhenDouble {

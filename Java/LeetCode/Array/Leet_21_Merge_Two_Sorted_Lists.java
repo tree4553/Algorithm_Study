@@ -1,4 +1,4 @@
-package Algorithm.LeetCode;
+package LeetCode.Array;
 
 // https://leetcode.com/problems/merge-two-sorted-lists/
 public class Leet_21_Merge_Two_Sorted_Lists {

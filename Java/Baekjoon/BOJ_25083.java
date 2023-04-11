@@ -1,4 +1,4 @@
-package Algorithm.Baekjoon;
+package Baekjoon;
 
 public class BOJ_25083 {
     public static void main(String[] args) {

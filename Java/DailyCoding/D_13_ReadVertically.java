@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 문자열 배열을 입력받아 문자열을 세로로 읽엇을 때의 문자열을 리턴해라
 public class D_13_ReadVertically {

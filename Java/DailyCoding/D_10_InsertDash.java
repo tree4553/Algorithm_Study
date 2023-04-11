@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 문자열을 받아서 연속된 한자리 홀수 숫자 사이네 -를 추가해서 리턴해라
 public class D_10_InsertDash {

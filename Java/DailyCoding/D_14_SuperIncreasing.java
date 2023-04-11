@@ -1,4 +1,4 @@
-package Algorithm.DailyCoding;
+package DailyCoding;
 
 // 수의 배열을 입력받아 각 요소들이 그 이전의 요소들의 합보다 큰지 여부를 리턴해라
 public class D_14_SuperIncreasing {
