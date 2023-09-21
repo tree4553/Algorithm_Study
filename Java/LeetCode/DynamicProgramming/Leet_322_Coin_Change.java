@@ -1,4 +1,7 @@
 package LeetCode.DynamicProgramming;
+
+import java.util.Arrays;
+
 // https://leetcode.com/problems/coin-change/
 public class Leet_322_Coin_Change {
     public static void main(String[] args) {
@@ -10,11 +13,20 @@ public class Leet_322_Coin_Change {
 
         if(amount <= 0) return 0;
 
-        int[] arr = new int[amount];
-        for (int i = 0; i < coins.length; i++) {
-            arr[coins[i]] += 1;
+        int[] arr = new int[amount + 1];
+        Arrays.fill(arr, amount + 1);
+        arr[0] = 0;
+
+        for (int i = 1; i <= amount; i++) {
+            for(int coin : coins) {
+                if(i >= coin) {
+                    arr[i] = Math.min(arr[i], arr[i - coin] + 1);
+                }
+            }
         }
 
+        int answer = -1;
+        //arr[amount]
         return 0;
     }
 }
