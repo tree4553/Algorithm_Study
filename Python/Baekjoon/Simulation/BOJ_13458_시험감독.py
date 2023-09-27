@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/13458
+# Simulation
 import sys
 
 input = sys.stdin.readline

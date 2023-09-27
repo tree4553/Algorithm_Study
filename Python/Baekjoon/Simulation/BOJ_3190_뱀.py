@@ -1,3 +1,5 @@
+# https://www.acmicpc.net/problem/3190
+# Simulation
 import sys
 from collections import deque
 input = sys.stdin.readline
