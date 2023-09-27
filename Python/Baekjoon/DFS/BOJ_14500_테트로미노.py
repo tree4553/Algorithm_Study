@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/14500
+# DFS
 import sys
 input = sys.stdin.readline
 

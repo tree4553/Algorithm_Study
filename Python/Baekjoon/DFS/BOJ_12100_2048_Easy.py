@@ -1,4 +1,5 @@
 # https://www.acmicpc.net/problem/12100
+# DFS
 import sys
 from copy import deepcopy
 
